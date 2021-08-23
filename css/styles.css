@@ -1,0 +1,107 @@
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+#intro{
+  background-color: #DA7F8F;
+  color: #FAF3F3;
+}
+
+.img{
+  margin: 7% 15% 7% 7%;
+
+}
+
+.authorimg{
+  width:250px;
+  height:250px;
+  border-radius:100%;
+
+}
+
+.img-text{
+  margin: 7% 0 0;
+}
+
+.para{
+  font-family: "Montserrat";
+  font-weight: 200;
+}
+
+#testimonial{
+  text-align: center;
+  background-color: #E1E5EA;
+  color: #A7BBC7;
+  padding: 3%;
+}
+#work{
+  background-color: #FFE3E3;
+  text-align: center;
+  color: #93B5C6;
+  padding: 3%;
+}
+
+#skills{
+  background-color: #A7BBC7;
+  text-align: center;
+  color: #FAF3F3;
+  padding: 3%;
+}
+
+#footer{
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-align: center;
+  padding: 3% 0;
+
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
